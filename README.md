@@ -21,15 +21,15 @@
 
 # ⚡ Analysis & Features
 
-Sales trend analysis over the year 2022
+ - Sales trend analysis over the year 2022
 
-Top-performing product categories
+ - Top-performing product categories
 
-Size-wise product distribution
+ - Size-wise product distribution
 
-Identification of seasonal trends in sales
+ - Identification of seasonal trends in sales
 
-Insights into customer preferences and buying patterns
+ - Insights into customer preferences and buying patterns
 
 # 📊 Visualizations
 
